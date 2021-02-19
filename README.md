@@ -1,16 +1,28 @@
-### Hi there 👋
+# 🥳 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 ccj ٩(๑>◡<๑)۶
 
-<!--
-**ccj/ccj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@ccj-%23181717?style=flat-square&logo=github)](https://github.com/ccj)
 
-Here are some ideas to get you started:
+🏖 前端和移动端开发者
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 热衷于新奇的事物 🤩 热爱思考
+- 喜欢分享 🧐
+
+**寻找热爱前端的开发者，一起加入组织，群聊等，一起交流技术，变强 😊**
+
+## Status
+
+[![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)](https://github.com/ccj/github-readme-stats)
+
+![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
+
+---
+
+
+## Contact me
+
+
+> email: 981015619@qq.com    
+> QQ: 981015619
+
