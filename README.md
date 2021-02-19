@@ -11,11 +11,12 @@
 
 ## Status
 
-[![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)](https://github.com/ccj/github-readme-stats)
-
-![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
+
+![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)
 
 ---
 
