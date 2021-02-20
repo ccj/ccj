@@ -1,6 +1,6 @@
 # 🥳 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 ccj ٩(๑>◡<๑)۶
 
-[![](https://img.shields.io/badge/-@ccj-%23181717?style=flat-square&logo=github)](https://github.com/ccj)  <a href="https://ccj.github.io/" target="_blank"/>
+[![](https://img.shields.io/badge/-@ccj-%23181717?style=flat-square&logo=github)](https://github.com/ccj)  <a href="https://ccj.github.io/" target="_blank">博客</a>
 
 🏖 前端和移动端开发者
 
