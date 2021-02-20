@@ -15,8 +15,9 @@
 
 ![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)   
 
+<!--
 ![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)  
-
+-->
 
 ## Contact me
 
