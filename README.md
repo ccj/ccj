@@ -8,7 +8,7 @@
 - 喜欢分享 🧐
 
 **寻找热爱前端的开发者，一起加入组织，群聊等，一起交流技术，变强 😊**   
-【vue进阶群】：https://jq.qq.com/?_wv=1027&k=8yxN4XdO
+【2000人vue进阶群】：https://jq.qq.com/?_wv=1027&k=8yxN4XdO
 
 ## 🛠 &nbsp;Tech Stack
 
